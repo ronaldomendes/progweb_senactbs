@@ -1,0 +1,10 @@
+Projeto criado durante o curso Programador Web
+
+Foram utilizados os conhecimentos obtidos no decorrer do curso, e a finalidade do CRUD é de fazer incluir os cursos em andamento na unidade escolar, disponibilizando um campo de pesquisa para que o usuário encontre facilmente o curso que está iniciando.
+
+Ainda como parte do projeto, foi incluído um campo de login para que um usuário mestre consiga inserir, editar, e apagar todas as informações.
+
+O projeto ainda contem alguns "bugs" que listarei abaixo:
+- Após inserir duas informações seguidas na tela de inclusão o log fecha e o usuário é direcionado para a página inicial;
+- Após inserir uma informação e clicar no link para a tela de pesquisa o log fecha e o usuário é direcionado para a página inicial;
+- Na tela de exclusão, ainda não consegui manter uma mensagem na mesma tela, fiz uma adaptação exibindo uma mensagem e com um botão de retorno para a tela anterior.
